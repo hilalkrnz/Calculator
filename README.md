@@ -6,6 +6,6 @@ This app is a simple calculator. It includes four operations. :abacus:
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/57602386/227779461-5dd4773e-4871-48a3-a916-a45f14f89d8c.gif" width=400>
+  <img src="https://user-images.githubusercontent.com/57602386/227781488-a29afbab-b67d-42c2-989b-64ee8d368dc5.gif" width=400>
 <div/>
 
